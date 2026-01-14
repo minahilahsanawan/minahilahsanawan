@@ -35,8 +35,6 @@ Hi, I am Minahil Ahsan Awan, an Electrical Engineering student at the National U
   <img src="https://img.shields.io/badge/Creative%20Writing-111827" />
 </p>
 
----
-
 ## Featured Project
 ### Smart Energy Billing and Consumption Prediction System
 A Python based application that tracks household electricity usage and estimates monthly electricity bills under different tariff structures, including peak and off peak rates. The project supports structured data handling and analysis workflows and is designed to be extendable toward consumption prediction tasks.
