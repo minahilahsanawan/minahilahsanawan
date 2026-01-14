@@ -22,12 +22,20 @@ Hi, I am Minahil Ahsan Awan, an Electrical Engineering student at the National U
 </p>
 
 ## Skills
-**Programming:** Python, C++ (learning), HTML  
-**AI/ML:** Machine Learning, Deep Learning  
-**Web:** Web Development, Web Applications  
-**Tools:** Microsoft Office (MS Word, MS Excel)  
-**Creative:** Graphic Design, Creative Writing  
-**Professional:** Leadership, Analytical Skills  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-111827" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-111827" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-111827" />
+  <img src="https://img.shields.io/badge/Web%20Development-111827" />
+  <img src="https://img.shields.io/badge/Web%20Applications-111827" />
+  <img src="https://img.shields.io/badge/Graphic%20Design-111827" />
+  <img src="https://img.shields.io/badge/MS%20Office-111827" />
+  <img src="https://img.shields.io/badge/Leadership-111827" />
+  <img src="https://img.shields.io/badge/Analytical%20Skills-111827" />
+  <img src="https://img.shields.io/badge/Creative%20Writing-111827" />
+</p>
+
+---
 
 ## Featured Project
 ### Smart Energy Billing and Consumption Prediction System
