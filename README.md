@@ -14,19 +14,6 @@ Hi, I am Minahil Ahsan Awan, an Electrical Engineering student at the National U
 - **Core Interests:** Robotics, Embedded Systems, Computer Vision, AI/ML
 - **Looking For:** Internships, research opportunities, and project collaborations
 
-## Connect with me
-<p align="left">
-  <a href="https://linkedin.com/in/minahilahsanawan" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="44" height="44" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/minahilahsanawan" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="44" height="44" alt="GitHub"/>
-  </a>
-  <a href="mailto:minahilahsaanawan@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="44" height="44" alt="Email"/>
-  </a>
-</p>
-
 ## Languages and Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="44" height="44" alt="Python"/>
@@ -46,11 +33,12 @@ Hi, I am Minahil Ahsan Awan, an Electrical Engineering student at the National U
 ### Smart Energy Billing and Consumption Prediction System
 A Python based application that tracks household electricity usage and estimates monthly electricity bills under different tariff structures, including peak and off peak rates. The project supports structured data handling and analysis workflows and is designed to be extendable toward consumption prediction tasks.
 
-Key contributions
+**Key contributions**
 
-Implemented tariff based billing logic (peak and off peak) for monthly cost estimation
-Designed a structured workflow for usage tracking and consumption analysis
-Built a modular Python codebase to support future forecasting extensions
+* Implemented tariff based billing logic (peak and off peak) for monthly cost estimation
+* Designed a structured workflow for usage tracking and consumption analysis
+* Built a modular Python codebase to support future forecasting extensions
+
 **Repository:** https://github.com/minahilahsanawan/Smart-Energy-Billing-and-Consumption-Prediction-System
 
 ## Education
@@ -66,3 +54,16 @@ Built a modular Python codebase to support future forecasting extensions
 - Building web development and web application skills through projects
 - Expanding applied machine learning knowledge through implementation based learning
 - Open to collaborating on hardware focused or software focused projects, including embedded systems, robotics, computer vision, and AI/ML applications
+
+## Connect with me
+<p align="left">
+  <a href="https://linkedin.com/in/minahilahsanawan" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="44" height="44" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/minahilahsanawan" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="44" height="44" alt="GitHub"/>
+  </a>
+  <a href="mailto:minahilahsaanawan@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="44" height="44" alt="Email"/>
+  </a>
+</p>
