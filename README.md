@@ -35,17 +35,111 @@ Hi, I am Minahil Ahsan Awan, an Electrical Engineering student at the National U
   <img src="https://img.shields.io/badge/Creative%20Writing-111827" />
 </p>
 
-## Featured Project
+## Featured Projects
+
+### Smart EV Charging Network
+
+A C++ based simulation of a city-scale intelligent electric vehicle charging ecosystem designed using object-oriented programming principles. The project models realistic EV charging infrastructure by integrating users, electric vehicles, charging stations, charging docks, bookings, renewable energy sources, billing systems, notifications, and analytics into one complete software platform.
+
+The system implements smart dock allocation using vehicle battery state, connector compatibility, user priority, charging urgency, and station load conditions. It also supports renewable-aware energy selection using solar, wind, and grid energy sources while preventing overload through load optimization and deferred scheduling logic.
+
+#### Key Features
+- Multi-station EV charging infrastructure
+- Smart dock allocation and compatibility matching
+- Slow, medium, and fast charging docks
+- Dynamic pricing and billing system
+- Renewable energy prioritization
+- Load optimization and overload prevention
+- Booking lifecycle management
+- Digital invoice generation
+- User notifications and analytics reporting
+
+**Technologies:** C++, OOP, STL, File Handling  
+**Repository:** https://github.com/minahilahsanawan/Smart-EV-Charging-Network
+
+---
+
+### Smart Parking Management System
+
+A C++ based object-oriented parking management system developed to simulate real-world parking operations and intelligent vehicle handling. The project focuses on efficient parking slot allocation, vehicle tracking, billing operations, and parking availability management through a structured and modular software architecture.
+
+The system manages vehicle entry and exit operations, monitors parking occupancy, calculates parking fees, and updates slot availability dynamically. The implementation demonstrates strong object-oriented design with modular class interaction and structured workflow management.
+
+#### Key Features
+- Vehicle entry and exit management
+- Parking slot allocation system
+- Real-time slot availability tracking
+- Parking fee calculation
+- Vehicle record management
+- Structured console-based workflow
+- Modular object-oriented architecture
+- File handling and persistent records
+
+**Technologies:** C++, Object-Oriented Programming, File Handling  
+**Repository:** https://github.com/minahilahsanawan/Smart-Parking-Management-System
+
+---
+
 ### Smart Energy Billing and Consumption Prediction System
-A Python based application that tracks household electricity usage and estimates monthly electricity bills under different tariff structures, including peak and off peak rates. The project supports structured data handling and analysis workflows and is designed to be extendable toward consumption prediction tasks.
 
-### Key contributions
+A Python based energy management and consumption analysis application designed to simulate household electricity usage and estimate monthly electricity bills under different tariff structures. The project models realistic energy consumption behavior using appliance-level tracking and structured billing logic.
 
-* Implemented tariff based billing logic (peak and off peak) for monthly cost estimation
-* Designed a structured workflow for usage tracking and consumption analysis
-* Built a modular Python codebase to support future forecasting extensions
+The system calculates electricity usage using appliance power ratings, operating hours, and peak/off-peak tariffs. It also supports structured data analysis workflows and is designed to be extendable toward machine learning based consumption prediction systems.
 
+#### Key Features
+- Appliance-level electricity tracking
+- Peak and off-peak tariff billing
+- Monthly electricity bill estimation
+- Structured consumption analysis
+- CSV-based data persistence
+- Usage reporting and visualization support
+- Forecasting-ready modular architecture
+- Organized Python workflow design
+
+**Technologies:** Python, Data Analysis, CSV Handling  
 **Repository:** https://github.com/minahilahsanawan/Smart-Energy-Billing-and-Consumption-Prediction-System
+
+---
+
+### Email Spam Classifier
+
+A machine learning based email classification system developed to identify whether an email is spam or legitimate using natural language processing and supervised learning techniques. The project demonstrates practical implementation of text preprocessing, feature extraction, model training, and prediction workflows.
+
+The system processes raw email text, performs cleaning and vectorization, and trains classification models to recognize spam patterns efficiently. The project provides hands-on experience with machine learning pipelines and NLP-based text classification systems.
+
+#### Key Features
+- Email text preprocessing
+- Tokenization and stopword removal
+- Feature extraction and vectorization
+- Spam vs ham classification
+- Machine learning model training
+- Prediction on unseen email data
+- NLP workflow implementation
+- Model evaluation and testing
+
+**Technologies:** Python, Machine Learning, NLP, Scikit-learn  
+**Repository:** https://github.com/minahilahsanawan/Email-Spam-Classifier
+
+---
+
+### MNIST Digit Recognition
+
+A machine learning and computer vision project focused on handwritten digit recognition using the MNIST dataset. The project demonstrates image classification concepts, dataset preprocessing, neural network training, and model evaluation techniques through practical implementation.
+
+The system is trained to recognize handwritten digits from 0–9 and provides hands-on exposure to machine learning workflows, computer vision concepts, and image-based prediction systems.
+
+#### Key Features
+- MNIST dataset preprocessing
+- Handwritten digit classification
+- Model training and testing
+- Accuracy evaluation
+- Neural network implementation
+- Image recognition workflow
+- Computer vision fundamentals
+- Prediction on handwritten input images
+
+**Technologies:** Python, Machine Learning, Deep Learning, Computer Vision  
+**Repository:** https://github.com/minahilahsanawan/Mnist-Digit-Recognition
 
 ## Education
 **National University of Sciences and Technology (NUST)** — BSc Electrical Engineering (Class of 2029)  
