@@ -2,35 +2,20 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=135&section=header&text=Minahil%20Ahsan%20Awan&fontSize=78&fontColor=F8FAFC&fontAlignY=55&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&section=header&text=Minahil%20Ahsan%20Awan&fontSize=68&fontColor=F8FAFC&fontAlignY=55&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=25&duration=2600&pause=900&color=F4C86B&center=true&vCenter=true&width=1000&lines=Electrical+Engineering+Student+at+NUST;Robotics+%E2%80%A2+Embedded+Systems+%E2%80%A2+Control+Systems;Machine+Learning+%E2%80%A2+Computer+Vision+%E2%80%A2+Web+Applications;Building+practical+systems+with+software%2C+hardware%2C+AI+and+design" alt="Typing SVG" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/NUST%20'29-Electrical%20Engineering-4656A6?style=for-the-badge&labelColor=10131A&color=4656A6" />
-<img src="https://img.shields.io/badge/10%2B-Technical%20Projects-F4C86B?style=for-the-badge&labelColor=10131A&color=F4C86B" />
-<img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Research-C44B3F?style=for-the-badge&labelColor=10131A&color=C44B3F" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&duration=2600&pause=900&color=F4C86B&center=true&vCenter=true&width=920&height=40&lines=Electrical+Engineering+Student+at+NUST;Robotics+%E2%80%A2+Embedded+Systems+%E2%80%A2+Control+Systems;Machine+Learning+%E2%80%A2+Computer+Vision+%E2%80%A2+Web+Applications;Building+practical+engineering+solutions+through+software%2C+hardware%2C+and+AI" alt="Typing SVG" />
 
 <br><br>
 
-<a href="https://linkedin.com/in/minahilahsanawan">
-  <img src="https://img.shields.io/badge/LinkedIn-4656A6?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/minahilahsanawan">
-  <img src="https://img.shields.io/badge/GitHub-10131A?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:minahilahsaanawan@gmail.com">
-  <img src="https://img.shields.io/badge/Email-C44B3F?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<img src="https://img.shields.io/badge/NUST_'29-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Electrical_Engineering-4F5BD5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/10%2B_Technical_Projects-F2C94C?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/Open_to_Internships_%26_Research-D65A4A?style=for-the-badge" />
 
 <br><br>
 
-<strong>Focused on building intelligent, well-structured, and practical engineering solutions.</strong>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4656A6,40:C9D9ED,70:F4C86B,100:C44B3F&height=4&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F5BD5,45:CFD8E3,75:F2C94C,100:D65A4A&height=3&section=header" />
 
 </div>
 
@@ -38,7 +23,7 @@
 
 ## About Me
 
-I am **Minahil Ahsan Awan**, an Electrical Engineering student at the **National University of Sciences and Technology, NUST**.
+I am **Minahil Ahsan Awan**, an Electrical Engineering student at the **National University of Sciences and Technology (NUST)**.
 
 My interests lie at the intersection of **robotics, embedded systems, control systems, machine learning, computer vision, software development, electronics, and practical engineering design**. I enjoy building projects that connect programming, simulation, hardware, data, and intelligent decision-making.
 
@@ -110,55 +95,55 @@ I am currently strengthening my foundation through hands-on work in **C++**, **P
 
 <div align="center">
 
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
 ### Programming
 
-<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js&theme=light" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/C%2B%2B-4656A6?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-F4C86B?style=for-the-badge&logo=python&logoColor=10131A" />
-<img src="https://img.shields.io/badge/HTML5-C44B3F?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-C9D9ED?style=for-the-badge&logo=css3&logoColor=10131A" />
-<img src="https://img.shields.io/badge/JavaScript-4656A6?style=for-the-badge&logo=javascript&logoColor=white" />
-
-<br><br>
-
-### Engineering, Simulation, and Embedded
-
-<p align="center">
-  <img src="./assets/logos/matlab.png" width="58" height="58" alt="MATLAB" />
-  <img src="./assets/logos/ltspice.png" width="58" height="58" alt="LTspice" />
-  <img src="./assets/logos/proteus.png" width="58" height="58" alt="Proteus" />
-  <img src="https://skillicons.dev/icons?i=arduino&theme=light" height="58" alt="Arduino" />
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js&theme=light" />
 </p>
 
-<br>
+<img src="https://img.shields.io/badge/C++-4F5BD5?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-F2C94C?style=for-the-badge&logo=python&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E65C4F?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-5DADE2?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-<img src="https://img.shields.io/badge/MATLAB-4656A6?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Simulink-C44B3F?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/LTspice-C9D9ED?style=for-the-badge&logoColor=10131A" />
-<img src="https://img.shields.io/badge/Proteus-F4C86B?style=for-the-badge&logoColor=10131A" />
-<img src="https://img.shields.io/badge/Arduino-4656A6?style=for-the-badge&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/Control%20Systems-C44B3F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Embedded%20Systems-C9D9ED?style=for-the-badge&logoColor=10131A" />
+</td>
+<td width="34%" align="center" valign="top">
 
-<br><br>
+### Engineering and Simulation
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="48" height="48" alt="MATLAB" />
+  <img src="https://skillicons.dev/icons?i=arduino&theme=light" height="48" alt="Arduino" />
+</p>
+
+<img src="https://img.shields.io/badge/MATLAB-4F5BD5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Simulink-D65A4A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LTspice-CFD8E3?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/Proteus-F2C94C?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/Arduino-3CB9C8?style=for-the-badge&logo=arduino&logoColor=white" />
+
+</td>
+<td width="33%" align="center" valign="top">
 
 ### Development and Design
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=light" />
-  <img src="./assets/logos/canva.png" width="58" height="58" alt="Canva" />
 </p>
 
-<br>
+<img src="https://img.shields.io/badge/Git-4F5BD5?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-CFD8E3?style=for-the-badge&logo=visualstudiocode&logoColor=black" />
+<img src="https://img.shields.io/badge/Figma-D65A4A?style=for-the-badge&logo=figma&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Git-4656A6?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-10131A?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-C9D9ED?style=for-the-badge&logo=visualstudiocode&logoColor=10131A" />
-<img src="https://img.shields.io/badge/Figma-C44B3F?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-4656A6?style=for-the-badge&logo=canva&logoColor=white" />
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -166,354 +151,271 @@ I am currently strengthening my foundation through hands-on work in **C++**, **P
 
 ## Experience
 
-<table>
-<tr>
-<td width="28%" valign="top">
-
-<strong>Jun 2026 to Present</strong>
-
-</td>
-<td width="72%" valign="top">
-
 ### Simulation and Controls Intern
 
-<strong>EsseReale · Internship · Canada · Remote</strong>
+**EsseReale · Internship · Canada · Remote**
+**Jun 2026 – Present**
 
-<ul>
-  <li>Contributing to simulation and control development for the Yo-Go personal mobility platform.</li>
-  <li>Working on MATLAB-based modelling and simulation workflows for dynamic system behaviour, stabilization, and controlled motion concepts.</li>
-  <li>Supporting the development of a structured simulation framework to study nonlinear plant behaviour, open-loop response, feedback stabilization, and motion command logic.</li>
-  <li>Strengthening practical understanding of control systems, robotics, MATLAB, system modelling, and simulation-based engineering analysis.</li>
-</ul>
+* Contributing to simulation and control development for the Yo-Go personal mobility platform
+* Working on MATLAB-based modelling and simulation workflows for dynamic system behaviour, stabilization, and controlled motion concepts
+* Supporting the development of a structured simulation framework to study nonlinear plant behaviour, open-loop response, feedback stabilization, and motion command logic
+* Strengthening practical understanding of control systems, robotics, MATLAB, system modelling, and simulation-based engineering analysis
 
-<strong>Skills:</strong> MATLAB, Control Systems, Simulation, System Modelling, Robotics, Dynamic Systems
+**Skills:** MATLAB, Control Systems, Simulation, System Modelling, Robotics, Dynamic Systems
 
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="28%" valign="top">
-
-<strong>Jun 2023 to Present</strong>
-
-</td>
-<td width="72%" valign="top">
+---
 
 ### Professional Freelancer
 
-<strong>Fiverr · Part-time · Islamabad, Pakistan · Remote</strong>
+**Fiverr · Part-time · Islamabad, Pakistan · Remote**
+**Jun 2023 – Present**
 
-<ul>
-  <li>Deliver client-ready websites and web applications with clean UI, responsive design, and reliable functionality.</li>
-  <li>Provide graphic design, content writing, and social media support to strengthen brand presence and engagement.</li>
-  <li>Manage requirements, timelines, revisions, and client communication to ensure high-quality delivery and satisfaction.</li>
-</ul>
+* Deliver client-ready websites and web applications with clean UI, responsive design, and reliable functionality
+* Provide graphic design, content writing, and social media support to strengthen brand presence and engagement
+* Manage requirements, timelines, revisions, and client communication to ensure high-quality delivery and satisfaction
 
-<strong>Skills:</strong> Graphic Design, Web Applications, Content Writing, Client Communication, Responsive Design
+**Skills:** Graphic Design, Web Applications, Content Writing, Client Communication, Responsive Design
 
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="28%" valign="top">
-
-<strong>Jun 2023 to Present</strong>
-
-</td>
-<td width="72%" valign="top">
+---
 
 ### Professional Freelancer
 
-<strong>Upwork · Freelance · Islamabad, Pakistan · Remote</strong>
+**Upwork · Freelance · Islamabad, Pakistan · Remote**
+**Jun 2023 – Present**
 
-<ul>
-  <li>Deliver client-ready websites and web applications with clean UI, responsive design, and reliable functionality.</li>
-  <li>Support clients with design, content, communication, revisions, and delivery.</li>
-  <li>Work on practical digital solutions with a focus on usability, structure, and final presentation.</li>
-</ul>
+* Deliver client-ready websites and web applications with clean UI, responsive design, and reliable functionality
+* Support clients with design, content, communication, revisions, and delivery
+* Work on practical digital solutions with a focus on usability, structure, and final presentation
 
-<strong>Skills:</strong> Web Applications, Website Development, Graphic Design, Content Support, Project Delivery
+**Skills:** Web Applications, Website Development, Graphic Design, Content Support, Project Delivery
 
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="28%" valign="top">
-
-<strong>Feb 2026 to Mar 2026</strong>
-
-</td>
-<td width="72%" valign="top">
+---
 
 ### Machine Learning Intern
 
-<strong>Arch Technologies · Internship · Islamabad, Pakistan · Remote</strong>
+**Arch Technologies · Internship · Islamabad, Pakistan · Remote**
+**Feb 2026 – Mar 2026**
 
-<ul>
-  <li>Gained hands-on experience in machine learning concepts, model development, and practical AI applications.</li>
-  <li>Worked on data preprocessing, data analysis, feature preparation, and basic model training using Python.</li>
-  <li>Explored how machine learning models are built, tested, evaluated, and improved for practical problem-solving.</li>
-  <li>Developed a stronger understanding of supervised learning workflows, model performance evaluation, and real-world ML implementation steps.</li>
-  <li>Strengthened technical skills in Python, machine learning, data handling, analytical thinking, and structured problem-solving.</li>
-</ul>
+* Gained hands-on experience in machine learning concepts, model development, and practical AI applications
+* Worked on data preprocessing, data analysis, feature preparation, and basic model training using Python
+* Explored how machine learning models are built, tested, evaluated, and improved for practical problem-solving
+* Developed a stronger understanding of supervised learning workflows, model performance evaluation, and real-world ML implementation steps
+* Strengthened technical skills in Python, machine learning, data handling, analytical thinking, and structured problem-solving
 
-<strong>Skills:</strong> Machine Learning, Python, Data Preprocessing, Data Analysis, Model Evaluation
-
-</td>
-</tr>
-</table>
+**Skills:** Machine Learning, Python, Data Preprocessing, Data Analysis, Model Evaluation
 
 ---
 
 ## Featured Projects
 
+<div align="center">
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### Smart EV Charging Network
 
 A C++ based city-scale electric vehicle charging ecosystem simulation with users, vehicles, charging stations, docks, bookings, billing, notifications, renewable energy sources, and analytics.
 
-<strong>Tech Stack:</strong> C++, OOP, STL, File Handling, Simulation Logic
+**Tech Stack:** C++, OOP, STL, File Handling, Simulation Logic
 
-<br><br>
+<br>
 
 <a href="https://github.com/minahilahsanawan/Smart-EV-Charging-Network">
-  <img src="https://img.shields.io/badge/View%20Repository-4656A6?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/View_Repository-4F5BD5?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### Smart Parking Management System
 
 A C++ based object-oriented parking management system for vehicle entry, exit, slot allocation, availability tracking, billing, and record management.
 
-<strong>Tech Stack:</strong> C++, OOP, File Handling, Data Structures
+**Tech Stack:** C++, OOP, File Handling, Data Structures
 
-<br><br>
+<br>
 
 <a href="https://github.com/minahilahsanawan/Smart-Parking-Management-System">
-  <img src="https://img.shields.io/badge/View%20Repository-C44B3F?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/View_Repository-D65A4A?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
 </tr>
+
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### Smart Energy Billing and Consumption Prediction System
 
 A Python based energy management system for household electricity tracking, bill estimation, and structured consumption analysis.
 
-<strong>Tech Stack:</strong> Python, Data Analysis, CSV Handling, Prediction Logic
+**Tech Stack:** Python, Data Analysis, CSV Handling, Prediction Logic
 
-<br><br>
+<br>
 
 <a href="https://github.com/minahilahsanawan/Smart-Energy-Billing-and-Consumption-Prediction-System">
-  <img src="https://img.shields.io/badge/View%20Repository-F4C86B?style=for-the-badge&logo=github&logoColor=10131A" />
+  <img src="https://img.shields.io/badge/View_Repository-F2C94C?style=for-the-badge&logo=github&logoColor=black" />
 </a>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### Email Spam Classifier
 
 A machine learning and NLP based system that classifies emails as spam or legitimate.
 
-<strong>Tech Stack:</strong> Python, Machine Learning, NLP, Scikit-learn
+**Tech Stack:** Python, Machine Learning, NLP, Scikit-learn
 
-<br><br>
+<br>
 
 <a href="https://github.com/minahilahsanawan/Email-Spam-Classifier">
-  <img src="https://img.shields.io/badge/View%20Repository-4656A6?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/View_Repository-4F5BD5?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
 </tr>
+
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### MNIST Digit Recognition
 
 A machine learning and computer vision project for handwritten digit classification using the MNIST dataset.
 
-<strong>Tech Stack:</strong> Python, Machine Learning, Deep Learning, Computer Vision
+**Tech Stack:** Python, Machine Learning, Deep Learning, Computer Vision
 
-<br><br>
+<br>
 
 <a href="https://github.com/minahilahsanawan/Mnist-Digit-Recognition">
-  <img src="https://img.shields.io/badge/View%20Repository-C44B3F?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/View_Repository-D65A4A?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
 ### Persistence of Vision Display
 
 An embedded systems project based on real-time display timing and hardware-controlled LED output.
 
-<strong>Tech Stack:</strong> Embedded Systems, Arduino, IoT, Electronics
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Bluetooth Controlled System
-
-A hardware-integrated embedded project focused on wireless control using Bluetooth communication.
-
-<strong>Tech Stack:</strong> Arduino, Bluetooth, Embedded C, Electronics
-
-</td>
-<td width="50%" valign="top">
-
-### Electronics Simulation and Waveform Analysis
-
-A circuit simulation based project area focused on analysing signal behaviour, waveforms, and circuit response.
-
-<strong>Tech Stack:</strong> LTspice, Proteus, Electronics, Circuit Simulation, Signal Analysis
+**Tech Stack:** ESP12, Embedded C++, IoT, Hall-Effect Sensor, LED Matrix, Real-Time Embedded Systems
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
 ## Education
 
+<div align="center">
+
 <table>
 <tr>
-<td width="28%" valign="top">
-
-<strong>Expected 2029</strong>
-
-</td>
-<td width="72%" valign="top">
+<td width="33%" align="center" valign="top">
 
 ### Bachelor of Electrical Engineering
 
-<strong>National University of Sciences and Technology, College of E&ME</strong>
+**National University of Sciences and Technology, College of E&ME**
+Expected 2029
 Islamabad, Pakistan
 
 </td>
-</tr>
-<tr>
-<td width="28%" valign="top">
-
-<strong>Pre-Engineering</strong>
-
-</td>
-<td width="72%" valign="top">
+<td width="33%" align="center" valign="top">
 
 ### FSc Intermediate
 
-<strong>KIPS College</strong>
+**KIPS College**
+Pre-Engineering
 Islamabad, Pakistan
 
 </td>
-</tr>
-<tr>
-<td width="28%" valign="top">
-
-<strong>Science</strong>
-
-</td>
-<td width="72%" valign="top">
+<td width="33%" align="center" valign="top">
 
 ### Matriculation
 
-<strong>Fauji Foundation College for Girls</strong>
+**Fauji Foundation College for Girls**
+Science
 Islamabad, Pakistan
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
 ## Certifications and Recognition
 
+<div align="center">
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="48%" align="center" valign="top">
 
 ### Getting Started with Generative AI
 
-<strong>IBM</strong>
-Issued Jun 2026
+**IBM**
 
-<ul>
-  <li>Generative AI fundamentals</li>
-  <li>Large Language Models</li>
-  <li>Modern AI workflow concepts</li>
-</ul>
+Generative AI fundamentals · Large Language Models · Modern AI workflow concepts
+
+<br>
 
 <a href="https://www.credly.com/badges/e9b9a936-4c87-4aab-bf66-fc453cc51f55/linked_in_profile">
-  <img src="https://img.shields.io/badge/View%20Credential-4656A6?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/View_Credential-4F5BD5?style=for-the-badge" />
 </a>
 
 </td>
-<td width="50%" valign="top">
+<td width="48%" align="center" valign="top">
 
 ### Google Ads for Beginners
 
-<strong>Coursera</strong>
-Issued Jun 2026 <strong>Credential ID:</strong> J3MC95WRTHR6
+**Coursera**
 
-<ul>
-  <li>Marketing campaign management</li>
-  <li>Online campaign management</li>
-  <li>Digital advertising fundamentals</li>
-</ul>
+Marketing campaign management · Online campaign management · Digital advertising fundamentals
+
+<br>
 
 <a href="https://www.coursera.org/account/accomplishments/verify/J3MC95WRTHR6">
-  <img src="https://img.shields.io/badge/View%20Credential-C44B3F?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/View_Credential-D65A4A?style=for-the-badge" />
 </a>
 
 </td>
 </tr>
+
 <tr>
-<td width="50%" valign="top">
+<td width="48%" align="center" valign="top">
 
 ### Programming for Everybody
 
-<strong>Coursera</strong>
+**Coursera**
 
-<ul>
-  <li>Python programming fundamentals</li>
-  <li>Beginner-level programming concepts</li>
-  <li>Problem solving using Python</li>
-</ul>
+Python programming fundamentals · Beginner-level programming concepts · Problem solving using Python
+
+<br>
 
 <a href="https://www.coursera.org/account/accomplishments/verify/F4YUCUNMYP2H?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course">
-  <img src="https://img.shields.io/badge/View%20Credential-F4C86B?style=for-the-badge&logoColor=10131A" />
+  <img src="https://img.shields.io/badge/View_Credential-F2C94C?style=for-the-badge&logoColor=black" />
 </a>
 
 </td>
-<td width="50%" valign="top">
+<td width="48%" align="center" valign="top">
 
 ### Voltfest 2026
 
-<strong>3rd Position · CEME NUST</strong>
+**3rd Position · CEME NUST**
 
-<ul>
-  <li>Secured 3rd position among 26 competing teams.</li>
-  <li>Presented a Persistence of Vision Display project.</li>
-  <li>Applied embedded systems, IoT, and real-time hardware integration.</li>
-</ul>
+Secured 3rd position among 26 competing teams for a Persistence of Vision Display project involving embedded systems, IoT, and real-time hardware integration.
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -558,15 +460,11 @@ Strengthening control-oriented modelling, MATLAB and Simulink workflows, and cir
 
 <br>
 
-I am currently focused on strengthening my technical profile through:
-
-<ul>
-  <li>Frontend development using HTML, CSS, and JavaScript</li>
-  <li>Computer vision, NLP, classification, and AI applications</li>
-  <li>Embedded and hardware-integrated development involving Arduino, sensors, Bluetooth communication, and real-time control</li>
-  <li>Engineering software development using structured programming, modular design, and practical implementation workflows</li>
-  <li>Control, modelling, and circuit simulation using MATLAB, Simulink, LTspice, and Proteus</li>
-</ul>
+* Frontend development using HTML, CSS, and JavaScript
+* Computer vision, NLP, classification, and AI applications
+* Embedded and hardware-integrated development involving Arduino, sensors, Bluetooth communication, and real-time control
+* Engineering software development using structured programming, modular design, and practical implementation workflows
+* Control, modelling, and circuit simulation using MATLAB, Simulink, LTspice, and Proteus
 
 ---
 
@@ -576,33 +474,29 @@ I am open to internships, research opportunities, engineering projects, startups
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/ROBOTICS-4656A6?style=for-the-badge&labelColor=10131A&color=4656A6" />
-<img src="https://img.shields.io/badge/EMBEDDED%20SYSTEMS-C9D9ED?style=for-the-badge&labelColor=10131A&color=C9D9ED" />
-<img src="https://img.shields.io/badge/COMPUTER%20VISION-C44B3F?style=for-the-badge&labelColor=10131A&color=C44B3F" />
-<img src="https://img.shields.io/badge/MACHINE%20LEARNING-F4C86B?style=for-the-badge&labelColor=10131A&color=F4C86B" />
-<img src="https://img.shields.io/badge/AUTONOMOUS%20SYSTEMS-4656A6?style=for-the-badge&labelColor=10131A&color=4656A6" />
-<img src="https://img.shields.io/badge/WEB%20APPLICATIONS-C9D9ED?style=for-the-badge&labelColor=10131A&color=C9D9ED" />
+<img src="https://img.shields.io/badge/Robotics-4F5BD5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Embedded_Systems-CFD8E3?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/Computer_Vision-D65A4A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Machine_Learning-F2C94C?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/Autonomous_Systems-4F5BD5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Web_Applications-CFD8E3?style=for-the-badge&logoColor=black" />
 
 </div>
 
 ---
 
-<div align="center">
-
 ## Connect With Me
 
+<div align="center">
+
 <a href="https://linkedin.com/in/minahilahsanawan">
-  <img src="https://img.shields.io/badge/LINKEDIN-4656A6?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-4F5BD5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/minahilahsanawan">
-  <img src="https://img.shields.io/badge/GITHUB-10131A?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="mailto:minahilahsaanawan@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-C44B3F?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-D65A4A?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-<br><br>
-
-<strong>Focused on building intelligent, well-structured, and practical engineering solutions.</strong>
 
 </div>
