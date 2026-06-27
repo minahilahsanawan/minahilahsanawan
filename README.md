@@ -1,18 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:38BDF8&height=220&section=header&text=Minahil%20Ahsan%20Awan&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=Electrical%20Engineering%20%7C%20Robotics%20%7C%20Embedded%20Systems%20%7C%20AI&descSize=17&descAlignY=58" />
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=23&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Electrical+Engineering+Student+at+NUST;Building+Smart+Systems+with+Hardware+and+Software;Exploring+Robotics%2C+AI%2C+Computer+Vision+and+Embedded+Systems;Designing+Practical+Engineering+Solutions" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,40:0F172A,100:1E40AF&height=6&section=header" />
 
 <br><br>
 
-<a href="https://0309d6ac.website-29o.pages.dev/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=0F172A" />
-</a>
+<h1>Minahil Ahsan Awan</h1>
+
+<h3>Electrical Engineering Student at NUST</h3>
+
+<p>
+  Robotics · Embedded Systems · Machine Learning · Computer Vision · Control Systems · Web Applications
+</p>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+practical+engineering+and+AI+systems;Exploring+robotics%2C+control%2C+embedded+systems+and+ML;Developing+software%2C+web+applications+and+technical+projects;Open+to+internships%2C+research+and+collaboration" alt="Typing SVG" />
+
+<br><br>
+
 <a href="https://github.com/minahilahsanawan">
-  <img src="https://img.shields.io/badge/GitHub-minahilahsanawan-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-minahilahsanawan-020617?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/minahilahsanawan">
   <img src="https://img.shields.io/badge/LinkedIn-Minahil%20Ahsan%20Awan-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -23,67 +30,65 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=minahilahsanawan&label=Profile%20Views&color=38BDF8&style=for-the-badge" />
+<table>
+<tr>
+<td align="center" width="33%">
+  <h3>NUST 2029</h3>
+  <p>Electrical Engineering</p>
+</td>
+<td align="center" width="33%">
+  <h3>10+ Projects</h3>
+  <p>AI, software, embedded systems, web and engineering</p>
+</td>
+<td align="center" width="33%">
+  <h3>Open to Work</h3>
+  <p>Internships, research and technical collaboration</p>
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E40AF,50:38BDF8,100:020617&height=3&section=footer" />
 
 </div>
 
 <br>
 
-<div align="center">
+## About Me
 
-## Building Intelligent Systems Through Engineering, Code, and Innovation
+I am **Minahil Ahsan Awan**, an Electrical Engineering student at the **National University of Sciences and Technology, NUST**.
 
-I am **Minahil Ahsan Awan**, an Electrical Engineering student at the **National University of Sciences and Technology, NUST**. My work focuses on the intersection of **embedded systems, robotics, machine learning, computer vision, electronics, software development, and practical engineering design**.
+My interests lie at the intersection of **robotics, embedded systems, control systems, machine learning, computer vision, software development, and practical engineering design**. I enjoy working on projects that combine hardware, software, data, and intelligent decision making.
 
-I enjoy building systems that can **sense, compute, and act**, from software simulations and AI models to hardware integrated projects and responsive web experiences. I am currently strengthening my foundations in programming, engineering problem solving, machine learning workflows, frontend development, and embedded system design.
-
-</div>
+I am currently building a strong technical foundation through hands-on work in C++, Python, MATLAB-based simulation, machine learning workflows, embedded systems, frontend development, and system-level problem solving. My goal is to contribute to engineering projects that are practical, well-structured, and useful in real-world applications.
 
 <br>
+
+## Technical Direction
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/8%2B-Projects-38BDF8?style=for-the-badge" />
-<br><br>
-Engineering, ML, embedded, software, electronics, and web projects
+  <h3>Robotics</h3>
+  <p>Autonomous systems, motion, control and hardware integrated logic</p>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/NUST-Electrical%20Engineering-2563EB?style=for-the-badge" />
-<br><br>
-Undergraduate student building strong engineering foundations
+  <h3>Embedded Systems</h3>
+  <p>Arduino, sensors, electronics, motor control and real-time systems</p>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/3rd-Voltfest%202026-22C55E?style=for-the-badge" />
-<br><br>
-Embedded systems competition recognition for POV display project
+  <h3>AI and ML</h3>
+  <p>Classification, NLP, computer vision, data preprocessing and prediction</p>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Open%20To-Internships-E11D48?style=for-the-badge" />
-<br><br>
-Research, technical projects, startups, and collaborations
+  <h3>Software</h3>
+  <p>C++, Python, web applications, simulations and structured systems</p>
 </td>
 </tr>
 </table>
-
-</div>
-
-<br>
-
-## Technical Focus
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Robotics-0F172A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Embedded%20Systems-0F172A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Autonomous%20Systems-0F172A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Computer%20Vision-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Electronics-0F172A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Web%20Development-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI%20Applications-0F172A?style=for-the-badge" />
 
 </div>
 
@@ -93,55 +98,79 @@ Research, technical projects, startups, and collaborations
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,arduino,github,vscode,figma" />
+<h3>Programming</h3>
+
+<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/C%2B%2B-0F172A?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/LTspice-0F172A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Figma-A855F7?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-020617?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-020617?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-020617?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=white" />
+
+<br><br>
+
+<h3>Engineering and Embedded Systems</h3>
+
+<img src="https://skillicons.dev/icons?i=arduino,matlab" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/MATLAB-1E40AF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Simulink-1E40AF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Arduino-1E40AF?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Embedded%20Systems-1E40AF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Control%20Systems-1E40AF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LTspice-1E40AF?style=for-the-badge" />
+
+<br><br>
+
+<h3>Development and Design Tools</h3>
+
+<img src="https://skillicons.dev/icons?i=github,git,vscode,figma" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/GitHub-334155?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-334155?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-334155?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-334155?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-334155?style=for-the-badge&logo=canva&logoColor=white" />
+<img src="https://img.shields.io/badge/MS%20Office-334155?style=for-the-badge" />
 
 </div>
 
 <br>
 
-## Skill Set
+## Core Skills
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Programming and Software
+### Software Development
 
 <ul>
-  <li>C++ programming</li>
-  <li>Python programming</li>
-  <li>Object oriented programming</li>
-  <li>Data structures fundamentals</li>
-  <li>Debugging and structured problem solving</li>
-  <li>File handling and data persistence</li>
+  <li>C++ programming and object-oriented design</li>
+  <li>Python programming and automation</li>
+  <li>Data handling, file handling and structured workflows</li>
+  <li>Problem solving, debugging and modular code design</li>
+  <li>Console-based systems and simulation logic</li>
 </ul>
 
 </td>
 <td width="50%" valign="top">
 
-### Web and Interface Development
+### AI, ML and Data
 
 <ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript fundamentals</li>
-  <li>Responsive UI layouts</li>
-  <li>Portfolio websites</li>
-  <li>Frontend web applications</li>
+  <li>Machine learning fundamentals</li>
+  <li>Data preprocessing and feature preparation</li>
+  <li>Classification model development</li>
+  <li>Natural language processing basics</li>
+  <li>Computer vision fundamentals and image classification</li>
 </ul>
 
 </td>
@@ -149,31 +178,141 @@ Research, technical projects, startups, and collaborations
 <tr>
 <td width="50%" valign="top">
 
-### AI, ML, and Data
+### Robotics, Control and Embedded Systems
 
 <ul>
-  <li>Machine learning workflows</li>
-  <li>Data preprocessing</li>
-  <li>Classification models</li>
-  <li>Feature extraction</li>
-  <li>NLP basics</li>
-  <li>Computer vision fundamentals</li>
+  <li>MATLAB-based modelling and simulation</li>
+  <li>Control systems and feedback concepts</li>
+  <li>Arduino and sensor-based systems</li>
+  <li>Motor drivers, Bluetooth control and hardware integration</li>
+  <li>LTspice simulation and electronics analysis</li>
 </ul>
 
 </td>
 <td width="50%" valign="top">
 
-### Embedded Systems and Electronics
+### Web, Design and Communication
 
 <ul>
-  <li>Arduino Uno</li>
-  <li>ESP-12 based systems</li>
-  <li>Sensor integration</li>
-  <li>Motor drivers</li>
-  <li>Bluetooth based control</li>
-  <li>LTspice simulation</li>
-  <li>Analog design and waveform analysis</li>
+  <li>HTML, CSS and JavaScript</li>
+  <li>Responsive web layouts and web applications</li>
+  <li>Graphic design and visual presentation</li>
+  <li>Technical writing and documentation</li>
+  <li>Client communication and project delivery</li>
 </ul>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Experience
+
+<table>
+<tr>
+<td width="28%" valign="top">
+
+### Jun 2026 to Present
+
+</td>
+<td width="72%" valign="top">
+
+### Simulation and Controls Intern
+
+**EsseReale · Internship · Canada · Remote**
+
+<ul>
+  <li>Contributing to simulation and control development for the Yo-Go personal mobility platform.</li>
+  <li>Working on MATLAB-based modelling and simulation workflows for dynamic system behaviour, stabilization and controlled motion concepts.</li>
+  <li>Supporting the development of a structured simulation framework to study nonlinear plant behaviour, open-loop response, feedback stabilization and motion command logic.</li>
+  <li>Strengthening practical understanding of control systems, robotics, MATLAB, system modelling and simulation-based engineering analysis.</li>
+</ul>
+
+<strong>Skills:</strong> MATLAB, Control Systems, Simulation, System Modelling, Robotics, Dynamic Systems
+
+</td>
+</tr>
+</table>
+
+<hr>
+
+<table>
+<tr>
+<td width="28%" valign="top">
+
+### Jun 2023 to Present
+
+</td>
+<td width="72%" valign="top">
+
+### Professional Freelancer
+
+**Fiverr · Part-time · Islamabad, Pakistan · Remote**
+
+<ul>
+  <li>Deliver client-ready websites and web applications with clean UI, responsive design and reliable functionality.</li>
+  <li>Provide graphic design, content writing and social media support to strengthen brand presence and engagement.</li>
+  <li>Manage requirements, timelines, revisions and client communication to ensure high-quality delivery and satisfaction.</li>
+</ul>
+
+<strong>Skills:</strong> Graphic Design, Web Applications, Content Writing, Client Communication, Responsive Design
+
+</td>
+</tr>
+</table>
+
+<hr>
+
+<table>
+<tr>
+<td width="28%" valign="top">
+
+### Jun 2023 to Present
+
+</td>
+<td width="72%" valign="top">
+
+### Professional Freelancer
+
+**Upwork · Freelance · Islamabad, Pakistan · Remote**
+
+<ul>
+  <li>Deliver client-ready websites and web applications with clean UI, responsive design and reliable functionality.</li>
+  <li>Provide graphic design, content writing and social media support to strengthen brand presence and engagement.</li>
+  <li>Manage requirements, timelines, revisions and client communication to ensure high-quality delivery and satisfaction.</li>
+</ul>
+
+<strong>Skills:</strong> Graphic Design, Web Applications, Website Development, Content Support, Project Delivery
+
+</td>
+</tr>
+</table>
+
+<hr>
+
+<table>
+<tr>
+<td width="28%" valign="top">
+
+### Feb 2026 to Mar 2026
+
+</td>
+<td width="72%" valign="top">
+
+### Machine Learning Intern
+
+**Arch Technologies · Internship · Islamabad, Pakistan · Remote**
+
+<ul>
+  <li>Gained hands-on experience in machine learning concepts, model development and practical AI applications.</li>
+  <li>Worked on data preprocessing, data analysis, feature preparation and basic model training using Python.</li>
+  <li>Explored how machine learning models are built, tested, evaluated and improved for practical problem-solving.</li>
+  <li>Developed a stronger understanding of supervised learning workflows, model performance evaluation and real-world ML implementation steps.</li>
+  <li>Strengthened technical skills in Python, machine learning, data handling, analytical thinking and structured problem-solving.</li>
+</ul>
+
+<strong>Skills:</strong> Machine Learning, Python, Data Preprocessing, Data Analysis, Model Evaluation
 
 </td>
 </tr>
@@ -186,30 +325,30 @@ Research, technical projects, startups, and collaborations
 <div align="center">
 
 <a href="https://github.com/minahilahsanawan/Smart-EV-Charging-Network">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=minahilahsanawan&repo=Smart-EV-Charging-Network&theme=github_dark&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=E5E7EB&icon_color=38BDF8" />
-</a>
-
-<a href="https://github.com/minahilahsanawan/Email-Spam-Classifier">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=minahilahsanawan&repo=Email-Spam-Classifier&theme=github_dark&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=E5E7EB&icon_color=38BDF8" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=minahilahsanawan&repo=Smart-EV-Charging-Network&theme=github_dark&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E5E7EB&icon_color=38BDF8" />
 </a>
 
 <a href="https://github.com/minahilahsanawan/Smart-Parking-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=minahilahsanawan&repo=Smart-Parking-Management-System&theme=github_dark&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=E5E7EB&icon_color=38BDF8" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=minahilahsanawan&repo=Smart-Parking-Management-System&theme=github_dark&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E5E7EB&icon_color=38BDF8" />
 </a>
 
 <a href="https://github.com/minahilahsanawan/Smart-Energy-Billing-and-Consumption-Prediction-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=minahilahsanawan&repo=Smart-Energy-Billing-and-Consumption-Prediction-System&theme=github_dark&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=E5E7EB&icon_color=38BDF8" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=minahilahsanawan&repo=Smart-Energy-Billing-and-Consumption-Prediction-System&theme=github_dark&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E5E7EB&icon_color=38BDF8" />
+</a>
+
+<a href="https://github.com/minahilahsanawan/Email-Spam-Classifier">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=minahilahsanawan&repo=Email-Spam-Classifier&theme=github_dark&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E5E7EB&icon_color=38BDF8" />
 </a>
 
 <a href="https://github.com/minahilahsanawan/Mnist-Digit-Recognition">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=minahilahsanawan&repo=Mnist-Digit-Recognition&theme=github_dark&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=E5E7EB&icon_color=38BDF8" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=minahilahsanawan&repo=Mnist-Digit-Recognition&theme=github_dark&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E5E7EB&icon_color=38BDF8" />
 </a>
 
 </div>
 
 <br>
 
-## Project Highlights
+## Project Portfolio
 
 <table>
 <tr>
@@ -217,15 +356,15 @@ Research, technical projects, startups, and collaborations
 
 ### Smart EV Charging Network
 
-A C++ based simulation of a smart electric vehicle charging ecosystem with charging stations, docks, bookings, billing, renewable energy selection, notifications, and analytics.
+A C++ based city-scale electric vehicle charging ecosystem simulation with users, vehicles, charging stations, docks, bookings, billing, notifications, renewable energy sources and analytics.
 
 <strong>Highlights</strong>
 
 <ul>
-  <li>Smart dock allocation using battery state, connector compatibility, urgency, priority, and station load.</li>
-  <li>Renewable aware energy selection using solar, wind, and grid energy sources.</li>
-  <li>Dynamic billing, booking management, invoice generation, and analytics reporting.</li>
-  <li>Load optimization and deferred scheduling logic for safer station operation.</li>
+  <li>Smart dock allocation using battery state, connector compatibility, urgency, priority and station load.</li>
+  <li>Renewable-aware energy selection using solar, wind and grid energy sources.</li>
+  <li>Dynamic billing, booking management, digital invoice generation and analytics reporting.</li>
+  <li>Load optimization and deferred scheduling to reduce overload conditions.</li>
 </ul>
 
 <strong>Tech Stack:</strong> C++, OOP, STL, File Handling, Simulation Logic
@@ -233,58 +372,58 @@ A C++ based simulation of a smart electric vehicle charging ecosystem with charg
 </td>
 <td width="50%" valign="top">
 
-### Email Spam Classifier
+### Smart Parking Management System
 
-A machine learning project that classifies emails as spam or legitimate using NLP based preprocessing, feature extraction, vectorization, model training, and evaluation.
+A C++ based object-oriented parking management system for vehicle entry, exit, slot allocation, availability tracking, billing and record management.
 
 <strong>Highlights</strong>
 
 <ul>
-  <li>Email text cleaning and preprocessing.</li>
-  <li>Tokenization, stopword removal, and vectorization.</li>
-  <li>Spam and ham classification using supervised learning.</li>
-  <li>Model evaluation and prediction on unseen email data.</li>
+  <li>Vehicle entry and exit workflow.</li>
+  <li>Dynamic parking slot allocation and availability updates.</li>
+  <li>Fee calculation and vehicle record management.</li>
+  <li>File handling for persistent records.</li>
 </ul>
 
-<strong>Tech Stack:</strong> Python, Machine Learning, NLP, Scikit learn
+<strong>Tech Stack:</strong> C++, OOP, File Handling, Data Structures
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Smart Parking Management System
+### Smart Energy Billing and Consumption Prediction System
 
-A C++ based parking management system that handles vehicle entry, exit, intelligent slot allocation, parking availability, billing, VIP priority, and revenue reporting.
+A Python based energy management system for household electricity tracking, bill estimation and consumption analysis.
 
 <strong>Highlights</strong>
 
 <ul>
-  <li>Vehicle entry and exit workflow.</li>
-  <li>Dynamic parking slot allocation.</li>
-  <li>Parking fee calculation and vehicle record management.</li>
-  <li>Persistent storage through file handling.</li>
+  <li>Appliance-level electricity usage tracking.</li>
+  <li>Peak and off-peak tariff based bill estimation.</li>
+  <li>CSV-based storage and structured consumption records.</li>
+  <li>Forecasting-ready design for future ML integration.</li>
 </ul>
 
-<strong>Tech Stack:</strong> C++, Data Structures, OOP, File Handling
+<strong>Tech Stack:</strong> Python, Data Analysis, CSV Handling, Prediction Logic
 
 </td>
 <td width="50%" valign="top">
 
-### Energy Billing and Consumption Prediction System
+### Email Spam Classifier
 
-A Python based energy platform for electricity billing, appliance level usage tracking, overload alerts, analytics, and prediction focused workflows.
+A machine learning and NLP based system that classifies emails as spam or legitimate.
 
 <strong>Highlights</strong>
 
 <ul>
-  <li>Appliance level electricity consumption tracking.</li>
-  <li>Peak and off peak tariff based bill estimation.</li>
-  <li>CSV based records and structured data handling.</li>
-  <li>Forecasting ready workflow for future ML integration.</li>
+  <li>Email text cleaning and preprocessing.</li>
+  <li>Tokenization, stopword removal and vectorization.</li>
+  <li>Spam and ham classification using supervised learning.</li>
+  <li>Model training, testing and evaluation.</li>
 </ul>
 
-<strong>Tech Stack:</strong> Python, Data Analysis, CSV Handling, Prediction Logic
+<strong>Tech Stack:</strong> Python, Machine Learning, NLP, Scikit-learn
 
 </td>
 </tr>
@@ -293,14 +432,14 @@ A Python based energy platform for electricity billing, appliance level usage tr
 
 ### MNIST Digit Recognition
 
-A computer vision and deep learning project focused on handwritten digit classification using the MNIST dataset.
+A machine learning and computer vision project for handwritten digit classification using the MNIST dataset.
 
 <strong>Highlights</strong>
 
 <ul>
   <li>Image preprocessing and dataset handling.</li>
   <li>Digit classification from 0 to 9.</li>
-  <li>Model training, testing, and accuracy evaluation.</li>
+  <li>Model training, testing and accuracy evaluation.</li>
   <li>Foundational computer vision implementation.</li>
 </ul>
 
@@ -309,65 +448,96 @@ A computer vision and deep learning project focused on handwritten digit classif
 </td>
 <td width="50%" valign="top">
 
-### Portfolio Website
+### Persistence of Vision Display
 
-A personal portfolio website designed to present projects, skills, education, achievements, experience, and collaboration interests through a clean responsive interface.
+An embedded systems project based on visual persistence, real-time display timing and hardware-controlled LED output.
 
 <strong>Highlights</strong>
 
 <ul>
-  <li>Responsive portfolio layout.</li>
-  <li>Structured sections for projects, skills, education, experience, awards, and contact.</li>
-  <li>Clean frontend presentation with interactive navigation.</li>
-  <li>Professional personal branding for engineering and technology opportunities.</li>
+  <li>Implemented a rotating LED based display concept.</li>
+  <li>Worked with timing logic and embedded control.</li>
+  <li>Applied hardware-software integration principles.</li>
+  <li>Secured 3rd position at Voltfest 2026 among 26 teams.</li>
 </ul>
 
-<strong>Tech Stack:</strong> HTML, CSS, JavaScript, Frontend Development, Responsive Design
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## Experience
-
-<table>
-<tr>
-<td width="30%" valign="top">
-
-<strong>Feb 2026 to Mar 2026</strong>
-
-</td>
-<td width="70%" valign="top">
-
-### Machine Learning Intern
-
-<strong>Arch Technologies, Remote</strong>
-
-<ul>
-  <li>Completed hands on work in classification, feature extraction, data preprocessing, and structured AI workflows.</li>
-  <li>Connected machine learning and computer vision concepts with robotics and autonomous systems use cases.</li>
-</ul>
+<strong>Tech Stack:</strong> Embedded Systems, Arduino, IoT, Electronics
 
 </td>
 </tr>
 <tr>
-<td width="30%" valign="top">
+<td width="50%" valign="top">
 
-<strong>2023 to Present</strong>
+### Bluetooth Controlled System
 
-</td>
-<td width="70%" valign="top">
+A hardware integrated embedded project focused on wireless control using Bluetooth communication.
 
-### Freelance Web, Design, and Content Support
-
-<strong>Fiverr and Upwork, Remote</strong>
+<strong>Highlights</strong>
 
 <ul>
-  <li>Deliver websites, web applications, design assets, and content support with attention to usability and final presentation.</li>
-  <li>Handle client communication, requirements, revisions, timelines, and delivery across digital service areas.</li>
+  <li>Implemented Bluetooth based command transfer.</li>
+  <li>Worked with microcontroller-based control logic.</li>
+  <li>Integrated hardware components for real-time response.</li>
+  <li>Strengthened understanding of embedded communication workflows.</li>
 </ul>
+
+<strong>Tech Stack:</strong> Arduino, Bluetooth, Embedded C, Electronics
+
+</td>
+<td width="50%" valign="top">
+
+### Electronics Simulation and Waveform Analysis
+
+A circuit simulation based project area focused on analysing signal behaviour, waveforms and circuit response.
+
+<strong>Highlights</strong>
+
+<ul>
+  <li>Designed and simulated circuits using LTspice.</li>
+  <li>Analysed waveform behaviour and signal response.</li>
+  <li>Worked with filtering, transient response and electrical characteristics.</li>
+  <li>Connected circuit theory with practical simulation tools.</li>
+</ul>
+
+<strong>Tech Stack:</strong> LTspice, Electronics, Circuit Simulation, Signal Analysis
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Web Application Projects
+
+Client-focused web projects involving clean UI, responsive layouts and practical functionality.
+
+<strong>Highlights</strong>
+
+<ul>
+  <li>Built responsive web layouts using HTML, CSS and JavaScript.</li>
+  <li>Worked on UI structure, content sections and navigation flow.</li>
+  <li>Improved visual hierarchy and user experience.</li>
+  <li>Delivered client-ready web interfaces through freelance work.</li>
+</ul>
+
+<strong>Tech Stack:</strong> HTML, CSS, JavaScript, Responsive Design
+
+</td>
+<td width="50%" valign="top">
+
+### Graphic Design and Content Projects
+
+Creative and client-focused digital design work for online brand presentation and communication.
+
+<strong>Highlights</strong>
+
+<ul>
+  <li>Designed visual assets for digital use.</li>
+  <li>Supported content writing and social media presentation.</li>
+  <li>Worked on client communication, revisions and delivery.</li>
+  <li>Improved design consistency and brand communication.</li>
+</ul>
+
+<strong>Tech Stack:</strong> Canva, Figma, Graphic Design, Content Writing
 
 </td>
 </tr>
@@ -381,15 +551,14 @@ A personal portfolio website designed to present projects, skills, education, ac
 <tr>
 <td width="30%" valign="top">
 
-<strong>Expected 2029</strong>
+### 2029
 
 </td>
 <td width="70%" valign="top">
 
 ### Bachelor of Electrical Engineering
 
-<strong>National University of Sciences and Technology, College of E&ME</strong>
-
+**National University of Sciences and Technology, College of E&ME**
 Islamabad, Pakistan
 
 </td>
@@ -397,15 +566,14 @@ Islamabad, Pakistan
 <tr>
 <td width="30%" valign="top">
 
-<strong>Pre Engineering</strong>
+### Pre-Engineering
 
 </td>
 <td width="70%" valign="top">
 
 ### FSc Intermediate
 
-<strong>KIPS College</strong>
-
+**KIPS College**
 Islamabad, Pakistan
 
 </td>
@@ -413,15 +581,14 @@ Islamabad, Pakistan
 <tr>
 <td width="30%" valign="top">
 
-<strong>Science</strong>
+### Science
 
 </td>
 <td width="70%" valign="top">
 
 ### Matriculation
 
-<strong>Fauji Foundation College for Girls</strong>
-
+**Fauji Foundation College for Girls**
 Islamabad, Pakistan
 
 </td>
@@ -438,24 +605,30 @@ Islamabad, Pakistan
 
 ### Getting Started with Generative AI
 
-<strong>IBM</strong>
-
+**IBM**
 Issued Jun 2026
 
-Skills include Generative AI fundamentals and Large Language Models.
+<ul>
+  <li>Generative AI fundamentals</li>
+  <li>Large Language Models</li>
+  <li>AI concepts and modern generative AI workflows</li>
+</ul>
 
 </td>
 <td width="50%" valign="top">
 
 ### Google Ads for Beginners
 
-<strong>Coursera</strong>
-
+**Coursera**
 Issued Jun 2026
 
-Credential ID: J3MC95WRTHR6
+Credential ID: **J3MC95WRTHR6**
 
-Skills include marketing campaign management and online campaign management.
+<ul>
+  <li>Marketing campaign management</li>
+  <li>Online campaign management</li>
+  <li>Digital advertising fundamentals</li>
+</ul>
 
 </td>
 </tr>
@@ -464,9 +637,13 @@ Skills include marketing campaign management and online campaign management.
 
 ### Programming for Everybody
 
-<strong>Coursera</strong>
+**Coursera**
 
-Python programming foundation and beginner level programming concepts.
+<ul>
+  <li>Python programming fundamentals</li>
+  <li>Beginner-level programming concepts</li>
+  <li>Problem solving using Python</li>
+</ul>
 
 <a href="https://coursera.org/share/606c57456635265dce5182e16f34ae5c">
   <img src="https://img.shields.io/badge/View%20Certificate-2563EB?style=for-the-badge&logo=coursera&logoColor=white" />
@@ -477,9 +654,13 @@ Python programming foundation and beginner level programming concepts.
 
 ### Voltfest 2026
 
-<strong>3rd Position, CEME NUST</strong>
+**3rd Position · CEME NUST**
 
-Secured 3rd position among 26 competing teams for a Persistence of Vision Display project involving embedded systems, IoT, and real time hardware integration.
+<ul>
+  <li>Secured 3rd position among 26 competing teams.</li>
+  <li>Presented a Persistence of Vision Display project.</li>
+  <li>Applied embedded systems, IoT and real-time hardware integration.</li>
+</ul>
 
 </td>
 </tr>
@@ -494,32 +675,20 @@ Secured 3rd position among 26 competing teams for a Persistence of Vision Displa
 <table>
 <tr>
 <td align="center" width="25%">
-
-### Sense
-
-Sensors, circuits, embedded hardware, and real world signals.
-
+  <h3>Code</h3>
+  <p>C++, Python, OOP, data handling and structured software systems</p>
 </td>
 <td align="center" width="25%">
-
-### Compute
-
-C++, Python, machine learning, and decision logic.
-
+  <h3>Control</h3>
+  <p>MATLAB simulation, feedback systems, dynamic models and stabilization</p>
 </td>
 <td align="center" width="25%">
-
-### Build
-
-Practical systems that are reliable, clear, and useful.
-
+  <h3>Intelligence</h3>
+  <p>Machine learning, computer vision, NLP and applied AI workflows</p>
 </td>
 <td align="center" width="25%">
-
-### Present
-
-Clean websites, visual design, documentation, and technical communication.
-
+  <h3>Hardware</h3>
+  <p>Embedded systems, sensors, Arduino, electronics and IoT-based projects</p>
 </td>
 </tr>
 </table>
@@ -528,15 +697,16 @@ Clean websites, visual design, documentation, and technical communication.
 
 <br>
 
-I am currently focused on strengthening my technical foundation through practical work in:
+I am currently focused on strengthening my technical profile through:
 
 <ul>
-  <li>C++ programming, OOP, data structures, and system logic.</li>
-  <li>Python based data analysis, automation, and machine learning projects.</li>
-  <li>Computer vision, NLP, classification, and AI driven applications.</li>
-  <li>Embedded systems using Arduino, ESP based boards, sensors, motor drivers, and Bluetooth control.</li>
-  <li>Frontend development using HTML, CSS, JavaScript, responsive layouts, and portfolio style web applications.</li>
-  <li>Electronics simulation, signal behavior, filtering, and waveform analysis using LTspice.</li>
+  <li>MATLAB-based simulation and control systems development for dynamic engineering systems.</li>
+  <li>C++ programming, object-oriented design, data structures and system-level logic.</li>
+  <li>Python-based machine learning, data preprocessing, classification and model evaluation.</li>
+  <li>Computer vision and AI-based perception concepts through practical implementation.</li>
+  <li>Embedded systems using Arduino, sensors, Bluetooth communication and real-time hardware control.</li>
+  <li>Frontend development using HTML, CSS, JavaScript and responsive UI design.</li>
+  <li>Technical communication, project documentation and professional portfolio development.</li>
 </ul>
 
 <br>
@@ -545,15 +715,11 @@ I am currently focused on strengthening my technical foundation through practica
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=minahilahsanawan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&text_color=E5E7EB" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=minahilahsanawan&show_icons=true&theme=github_dark&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=38BDF8&text_color=E5E7EB" alt="GitHub Stats" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=minahilahsanawan&theme=dark&hide_border=true&background=0F172A&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minahilahsanawan&layout=compact&theme=github_dark&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=E5E7EB" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minahilahsanawan&layout=compact&theme=github_dark&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E5E7EB" alt="Top Languages" />
 
 </div>
 
@@ -561,33 +727,37 @@ I am currently focused on strengthening my technical foundation through practica
 
 ## Collaboration Interests
 
-I am open to internships, research opportunities, engineering projects, startups, and meaningful technical collaborations in:
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/Robotics-0F172A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Embedded%20Systems-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Computer%20Vision-0F172A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Autonomous%20Systems-0F172A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Web%20Applications-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Robotics-020617?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Embedded%20Systems-1E40AF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Control%20Systems-020617?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Machine%20Learning-1E40AF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Computer%20Vision-020617?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Web%20Applications-1E40AF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Engineering%20Software-020617?style=for-the-badge" />
 
 </div>
 
 <br>
 
-## Connect With Me
+I am open to internships, research opportunities and collaborative projects in robotics, embedded systems, control systems, machine learning, computer vision, web applications and engineering software development.
+
+<br>
 
 <div align="center">
 
-<a href="https://0309d6ac.website-29o.pages.dev/">
-  <img src="https://img.shields.io/badge/Portfolio%20Website-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=0F172A" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:1E40AF,100:38BDF8&height=3&section=header" />
+
+<br><br>
+
+<h2>Connect With Me</h2>
+
 <a href="https://linkedin.com/in/minahilahsanawan">
   <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/minahilahsanawan">
-  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="mailto:minahilahsaanawan@gmail.com">
   <img src="https://img.shields.io/badge/Email-E11D48?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -595,11 +765,12 @@ I am open to internships, research opportunities, engineering projects, startups
 
 <br><br>
 
-<strong>Building practical systems at the intersection of engineering, software, AI, and innovation.</strong>
+<p>
+  <strong>Building practical systems through engineering, software, AI and innovation.</strong>
+</p>
 
-<br><br>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:2563EB,100:0F172A&height=130&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1E40AF,100:38BDF8&height=120&section=footer" />
 
 </div>
-
