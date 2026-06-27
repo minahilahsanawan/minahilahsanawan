@@ -77,11 +77,9 @@ I am currently strengthening my foundation through hands-on work in **C++**, **P
 
 ### Design and Communication
 
-* Technical documentation and project presentation
-* Visual design for technical and digital content
-* UI-focused thinking for web interfaces
-* Content support and structured communication
-* Team collaboration and project delivery
+* UI planning for clean, responsive, and user-friendly web interfaces
+* Digital content design for academic, technical, and freelance work
+* Technical documentation for engineering and software projects
 
 </td>
 </tr>
@@ -112,6 +110,7 @@ I am currently strengthening my foundation through hands-on work in **C++**, **P
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 </td>
+
 <td width="34%" align="center" valign="top">
 
 ### Engineering and Simulation
@@ -128,6 +127,7 @@ I am currently strengthening my foundation through hands-on work in **C++**, **P
 <img src="https://img.shields.io/badge/Arduino-3CB9C8?style=for-the-badge&logo=arduino&logoColor=white" />
 
 </td>
+
 <td width="33%" align="center" valign="top">
 
 ### Development and Design
@@ -140,6 +140,7 @@ I am currently strengthening my foundation through hands-on work in **C++**, **P
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-CFD8E3?style=for-the-badge&logo=visualstudiocode&logoColor=black" />
 <img src="https://img.shields.io/badge/Figma-D65A4A?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 
 </td>
 </tr>
@@ -459,6 +460,8 @@ Strengthening control-oriented modelling, MATLAB and Simulink workflows, and cir
 </div>
 
 <br>
+
+I am currently focused on strengthening my technical profile through:
 
 * Frontend development using HTML, CSS, and JavaScript
 * Computer vision, NLP, classification, and AI applications
