@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&section=header&text=Minahil%20Ahsan%20Awan&fontSize=68&fontColor=F8FAFC&fontAlignY=55&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&section=header&text=Minahil%20Ahsan&fontSize=68&fontColor=F8FAFC&fontAlignY=55&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&duration=2600&pause=900&color=F4C86B&center=true&vCenter=true&width=920&height=40&lines=Electrical+Engineering+Student+at+NUST;Robotics+%E2%80%A2+Embedded+Systems+%E2%80%A2+Control+Systems;Machine+Learning+%E2%80%A2+Computer+Vision+%E2%80%A2+Web+Applications;Building+practical+engineering+solutions+through+software%2C+hardware%2C+and+AI" alt="Typing SVG" />
 
@@ -23,7 +23,7 @@
 
 ## About Me
 
-I am **Minahil Ahsan Awan**, an Electrical Engineering student at the **National University of Sciences and Technology (NUST)**.
+I am **Minahil Ahsan**, an Electrical Engineering student at the **National University of Sciences and Technology (NUST)**.
 
 My interests lie at the intersection of **robotics, embedded systems, control systems, machine learning, computer vision, software development, electronics, and practical engineering design**. I enjoy building projects that connect programming, simulation, hardware, data, and intelligent decision-making.
 
